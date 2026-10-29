@@ -46,10 +46,10 @@ Escrevo software que gente de verdade usa (meu SaaS roda hoje no balcão de óti
 </details>
 
 <details>
-<summary><picture><img src="assets/pastas/questlog.svg" alt="pasta QuestLog" height="50" align="middle"></picture></summary>
-<picture><img src="assets/pastas/questlog-aberta.svg" alt="conteúdo de QuestLog" width="100%"></picture>
+<summary><picture><img src="assets/pastas/simulado.svg" alt="pasta simulado" height="50" align="middle"></picture></summary>
+<picture><img src="assets/pastas/simulado-aberta.svg" alt="conteúdo de simulado" width="100%"></picture>
 
-↳ [repositório](https://github.com/YanMachadoNunes/QuestLog)
+↳ [repositório](https://github.com/YanMachadoNunes/simulado)
 </details>
 
 <details>
